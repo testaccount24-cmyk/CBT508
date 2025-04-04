@@ -1,0 +1,11 @@
+2025-04-04 10:53:37.150522 - Received CBT.V508.FILE508.PDS from FILE508.XMI 
+2025-04-04 10:53:37.151249 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:53:37.151391 - Found $$NOTES.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTES
+2025-04-04 10:53:37.151522 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/$$NOTE1
+2025-04-04 10:53:37.151658 - Found @FILE508.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/@FILE508
+2025-04-04 10:53:37.151787 - Found EXCMD.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMD
+2025-04-04 10:53:37.151916 - Found EXCMDI.txt (text/plain) in CBT.V508.FILE508.PDS, moved to PDS/EXCMDI
+2025-04-04 10:53:37.152050 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE508.PDS, moved to PDS/LOADLIB.xmi
+2025-04-04 10:53:37.157107 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
+2025-04-04 10:53:37.157479 - Found EXCMD.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMD
+2025-04-04 10:53:37.157619 - Found EXCMDI.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/EXCMDI
